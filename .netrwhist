@@ -1,10 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/phalgun/work/server/DB'
-let g:netrw_dirhist_2='/Users/phalgun/work/lapi_v4/v4/views'
-let g:netrw_dirhist_3='/Users/phalgun/work/v4/api/migrations'
-let g:netrw_dirhist_4='/Users/phalgun/work/v4/api/resources'
-let g:netrw_dirhist_5='/Users/phalgun/work/v4/dba'
-let g:netrw_dirhist_6='/Users/phalgun/work/restful-sqlalchemy/models'
-let g:netrw_dirhist_7='/Users/phalgun/work/wapi/DB Stuff'
-let g:netrw_dirhist_8='/Users/phalgun/work/wapi/DB Stuff/stored procedure'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/phalgun/.oh-my-zsh/custom/plugins'
+let g:netrw_dirhist_2='/Users/phalgun/.oh-my-zsh/custom/plugins/example'
